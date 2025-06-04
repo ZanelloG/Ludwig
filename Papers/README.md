@@ -9,4 +9,4 @@
 
 
 This repository contains the accepted version of the paper before journal publication.  
-The final version will be available at: (i-lex)[https://i-lex.unibo.it/]
+The final version will be available at: [i-lex](https://i-lex.unibo.it/)
