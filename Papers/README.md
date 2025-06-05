@@ -6,7 +6,7 @@ This repository collects the academic papers authored by Giosuè Zanello, focusi
 
 ## 📄 Articles
 
-### 🧠 *Wittgenstein e il neuro-simbolismo*
+### *Wittgenstein e il neuro-simbolismo*
 - **Author:** Giosuè Zanello  
 - **Journal:** *i-lex – Journal of Law, Cognitive Science and Artificial Intelligence*, Università di Bologna  
 - **Status:** ✅ Accepted for publication (to appear in the 2025 issue)  
@@ -19,7 +19,7 @@ This repository collects the academic papers authored by Giosuè Zanello, focusi
 
 ---
 
-### 🔗 *A Logical Degeneration of Vector Symbolic Architectures for Explainable AI*
+### *A Logical Degeneration of Vector Symbolic Architectures for Explainable AI*
 - **Author:** Giosuè Zanello  
 - **Journal:** Not yet published  
 - **Status:** Seeking publication  
