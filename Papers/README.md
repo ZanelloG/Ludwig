@@ -9,13 +9,11 @@ This repository collects the academic papers authored by Giosuè Zanello, focusi
 ### *Wittgenstein e il neuro-simbolismo*
 - **Author:** Giosuè Zanello  
 - **Journal:** *i-lex – Journal of Law, Cognitive Science and Artificial Intelligence*, Università di Bologna  
-- **Status:** ✅ Accepted for publication (to appear in the 2025 issue)  
+- **Status:** ✅ Published  
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 - **Abstract:**  
   This article investigates the epistemological implications of neuro-symbolic artificial intelligence through the philosophical framework of Ludwig Wittgenstein. The Tractatus is revisited in light of symbolic computation and vector-based cognition.
-
-- **Pre-publication version:** Available in this repository  
-- **Final version:** Will be available at → [i-lex.unibo.it](https://i-lex.unibo.it/)
+- **Final version:** https://doi.org/10.6092/issn.1825-1927/21574 
 
 ---
 
